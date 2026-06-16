@@ -1,4 +1,4 @@
-# Start Claude Session
+# Open Claude Window
 
 A tiny GitHub Actions workflow that opens your Claude **usage window** at a fixed time each day by sending one throwaway prompt to Claude Code.
 
