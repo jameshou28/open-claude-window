@@ -2,7 +2,7 @@ name: Start Claude window
 
 on:
   schedule:
-    - cron: "0 5 * * *" # 80:00 UTC = 4:00 AM EDT (UTC-4)
+    - cron: "0 6 * * *" # 80:00 UTC = 4:00 AM EDT (UTC-4)
   workflow_dispatch: # run manually
 
 jobs:
